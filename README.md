@@ -23,6 +23,3 @@ In your analysis you will perform the following:
 
 ![image](https://user-images.githubusercontent.com/90443509/216832040-d5609232-6a34-481f-b7e1-ba231911f881.png)
 ![image](https://user-images.githubusercontent.com/90443509/216832075-2198bce4-4b1c-479e-b406-7880cb1734f8.png)
-![image](https://user-images.githubusercontent.com/90443509/216832092-cf81a915-df89-4a97-a95d-cfb757416a2a.png)
-![image](https://user-images.githubusercontent.com/90443509/216832106-9c58e405-293c-41d5-bdf9-b6ecd7724e47.png)
-![image](https://user-images.githubusercontent.com/90443509/216832131-1f5a5bd1-49f3-4044-a9c4-e0ab1b0274d6.png)
